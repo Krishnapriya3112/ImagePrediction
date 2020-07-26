@@ -1,0 +1,13 @@
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.exe
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.deps.json
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.runtimeconfig.json
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.runtimeconfig.dev.json
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.dll
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\bin\Debug\netcoreapp3.1\ImagePrediction.pdb
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.AssemblyInfoInputs.cache
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.AssemblyInfo.cs
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.dll
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.pdb
+C:\Users\KP\source\repos\ImagePrediction\ImagePrediction\obj\Debug\netcoreapp3.1\ImagePrediction.genruntimeconfig.cache
